@@ -53,7 +53,19 @@ When you clone this repository, you will get **three files**:
 
 - `README.md` – This guide and instructions  
 - `script.sh` – The automated script to clean ports  
-- `script.txt` – Manual instructions for cleaning ports  
+- `script.txt` – Manual instructions for cleaning ports
+
+## 🤝 Contribute
+
+Found a weird port issue? PRs are welcome — help devs survive haunted ports together.
+
+---
+
+## 🎖️ License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Aditya-das-4707-e
+
 
 ### How to use:
 
