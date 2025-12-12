@@ -1,4 +1,4 @@
-# 🔥 Stale Port Cleanup
+# 🔥 Ghost Port Cleanup
 
 Sometimes Docker crashes or forgets to release ports, leaving behind **ghost docker-proxy processes** that keep ports like `3306`, `8080`, or any other port stuck in “address already in use” mode.  
 
