@@ -46,3 +46,16 @@ sudo kill -9 <pid_number>
 ```bash
 sudo systemctl restart docker
 ```
+
+## 📂 File Overview
+
+When you clone this repository, you will get **three files**:
+
+- `README.md` – This guide and instructions  
+- `script.sh` – The automated script to clean ports  
+- `script.txt` – Manual instructions for cleaning ports  
+
+### How to use:
+
+- **Manual cleanup:** Open and follow the steps in `script.txt`.  
+- **Automatic cleanup:** Use `script.sh`. Make sure to open the file and enter the port number you want to clean when prompted.  
